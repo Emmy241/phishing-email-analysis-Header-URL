@@ -1,0 +1,19 @@
+# Recipient (redacted)
+a***@gmail.com
+
+# Email addresses
+nooreply.dchqirw@zbuqbahyqmbtrim[.]us
+ddmxvizwoyfpd@pkaquaweiki[.]gfurlan[.]com[.]br
+
+# Domains
+zbuqbahyqmbtrim[.]us
+pkaquaweiki[.]gfurlan[.]com[.]br
+storage[.]googleapis[.]com
+trackoriginal[.]com
+
+# URLs (defanged)
+hxxps[://]storage[.]googleapis[.]com/whilewait/comessuccess[.]html
+hxxps[://]trackoriginal[.]com/
+
+# IPs (mail transport)
+89[.]252[.]161[.]234
